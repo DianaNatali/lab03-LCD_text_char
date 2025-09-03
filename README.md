@@ -1,4 +1,4 @@
-# lab03- Visualización en display LCD 16x2
+# Lab02: LCD 16x2 en modo paralelo
 
 ## Integrantes
 
@@ -8,4 +8,6 @@
 
 
 ## Diagramas
+
+## Evidencias
 
